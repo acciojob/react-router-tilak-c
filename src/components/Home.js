@@ -4,7 +4,7 @@ import Navigation from './Navigation'
 const Home = () => {
   return (
     <div>
-        <h1>Welcome to my website</h1>
+        <h1>Welcome to my website!</h1>
     </div>
   )
 }
